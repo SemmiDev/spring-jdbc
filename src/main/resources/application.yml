@@ -1,0 +1,7 @@
+# configuration
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/studentdb
+    username: postgres
+    password: sammidev
+    pool-size: 30
